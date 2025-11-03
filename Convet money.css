@@ -113,3 +113,14 @@ span, .value-to-convert, .value-converted{ /*Apicará para as TAG's e para as cl
     width: 52px;
     height: 52px;
 }
+@media screen and (max-width: 500px) {
+    #logo-principal {
+        width: 200px;
+        height: 200px;
+}
+    
+    main {
+        width: 90%;
+        padding: 20px;
+}
+}
