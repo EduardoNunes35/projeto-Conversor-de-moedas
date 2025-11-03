@@ -1,10 +1,10 @@
 
 <h1>Convert Money</h1>
-<img src="https://github.com/user-attachments/assets/cfd8fe8e-302b-499c-ac7f-e59bc8417396"  width="999" height="564" alt="Projeto - Convert money (desktop)" />
-
+<img <img width="783" height="558" alt="Projeto - Convert money (desktop) " src="https://github.com/user-attachments/assets/e7d47567-9636-46b3-a801-614f0763880b" />
 
 <h1>Versão Mobile:</h1>
-<img src="https://github.com/user-attachments/assets/eb6d6ace-3ced-40a2-a41a-0bc94b408093" width="662" height="539" alt="Projeto - Convert money (mobile)"  />
+<img width="307" height="488" alt="Projeto - Convert money (mobile)" src="https://github.com/user-attachments/assets/ccfc74a5-cd4a-493e-8f57-122b53879b08" />
+
 <br>
 
 <h2> Tecnologias utilizadas nesse projeto:</h2>
