@@ -13,4 +13,4 @@
 <img  src="https://github.com/user-attachments/assets/fe9ffbce-2e48-4470-ac63-13b340c9b18c" alt="JavaScript-logo" height="60px" /> </p>
 
 <h2>Descrição:</h2>
-<p>Esse foi o meu primeiro projeto utilizando o JavaScript. O projeto consiste em poder converter a moeda barsileira (Real) para outras moedas, como Dólar, Libra, Euro, Peso Argentino e até mesmo Bitcoin.</p>
+<p>Esse foi o meu primeiro projeto utilizando o JavaScript. O projeto consiste em poder converter a moeda barsileira (Real) para outras moedas, como Dólar, Libra, Euro, Peso Argentino e até mesmo em Bitcoin.</p>
